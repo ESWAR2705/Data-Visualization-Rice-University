@@ -9,5 +9,7 @@ Projects completed under the 'Data Visualization' Course offered by <b>Rice Univ
   
   1. Gain hands-on experience working with multiple dictionaries as well as searching the web for information about specific features of a package. 
   2. Performing cleaning and unifying multiple sets of data.
-   
+  3. Visualizing the dataset using Pygal Library and simultaneously developing a better undertanding about the dataset.
+ 
+  
 </p>
