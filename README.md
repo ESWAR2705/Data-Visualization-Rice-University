@@ -1,4 +1,4 @@
-# Data-Visualisation # Rice-University
+# Data-Visualization # Rice-University
 
 Projects completed under the <b>'Data Visualization'</b> Course offered by <b>Rice University</b> on <b>Coursera</b>:
 
