@@ -8,5 +8,6 @@ Projects completed under the 'Data Visualization' Course offered by <b>Rice Univ
 <p>The primary goal of the projects is to:
   
   1. Gain hands-on experience working with multiple dictionaries as well as searching the web for information about specific features of a package. 
+  2. Performing cleaning and unifying multiple sets of data.
    
 </p>
